@@ -1,0 +1,59 @@
+body{
+    background-color: hsl(67, 10%, 75%);
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+.title1 {
+    
+    color: hsl(240, 65%, 25%);
+    font-size: 350%;
+    text-align: center;
+    letter-spacing: 50px;
+}
+
+.title2 {
+    background-color:hsl(68, 30%, 30%);
+    color: rgb(255, 255, 255);
+    font-size: 270%;
+}
+.img1{
+    width: 7.6cm;
+    height: 8.6cm;
+    float: left;
+   
+}
+
+.bold{
+    font-weight: bold;
+    font-style: italic;
+}
+
+p{
+    font-size: 210%;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 180%;
+}
+
+p.centrado {
+    text-align: center;
+    width="297";
+    height="320";
+  }
+
+
+  .img2{
+    width: 11.8cm;
+    height: 10.8cm;
+    float: right;  
+  }
+
+  .footer{
+      text-align: left;
+      font-style: italic;
+      font-size: 140%;
+      line-height: 0%;
+  }
